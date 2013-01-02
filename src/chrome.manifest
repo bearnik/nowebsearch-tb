@@ -1,0 +1,3 @@
+
+skin nowebsearch classic/1.0 skin/
+style chrome://messenger/content/messenger.xul chrome://nowebsearch/skin/nowebsearch.css
